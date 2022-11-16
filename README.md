@@ -1,0 +1,2 @@
+# PratiqueProgrammeDist
+Configuration client serveur 
